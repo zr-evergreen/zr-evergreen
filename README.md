@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zahra Rezaee</h1>
+<h1 align="center">Hi, I'm Zahra Rezaee</h1>
 <h3 align="center">A passionate Android developer</h3>
 
 - 🔭 I’m currently working on **Word+**
